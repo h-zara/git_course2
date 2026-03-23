@@ -1,4 +1,4 @@
-# git_course2
+# git_course
 Learning git and github
 
 ## importamt notes
